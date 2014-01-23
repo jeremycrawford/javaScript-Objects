@@ -1,0 +1,1 @@
+var car={make:"toyota",color:"red",age:11,maintenance:["oil","tires","gas"],explode:!1,crash:function(a){return a.explode=!0,"BOOM"}},engine={size:8,speed:1e3,hp:320,explode:!1},body={size:8,speed:1e3,hp:320,explode:!1};
